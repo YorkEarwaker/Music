@@ -22,4 +22,6 @@ Terms
 Digital
 * Musical Instrument Digigal Interface MIDI, [WP](https://en.wikipedia.org/wiki/MIDI) 
 
-
+Books
+* The Penguin Book of English Folk Songs, Selected and edited by Ralph Vaughan Williams and A.L. Lloyd, Penguin Books, 1959, [WS](https://mainlynorfolk.info/lloyd/books/penguinbookofenglishfolksongs.html)
+* Ballads of Britain, John Goss, 1937, 
