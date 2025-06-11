@@ -25,7 +25,7 @@ Digital
 * Musical Instrument Digigal Interface MIDI, [WP](https://en.wikipedia.org/wiki/MIDI) 
 
 Books - Practice
-* Musicking; The Meanings Of Performing And Listening, 2011-03-01 (Sales Date), Christopher Small, Weslyan University Press, ISBN(13) 9780819522573, WUP [WS](https://www.weslpress.org/9780819572240/musicking/)
+* Musicking; The Meanings Of Performing And Listening, 2011-03-01 (Sales Date), Christopher Small, Wesleyan University Press, ISBN(13) 9780819522573, WUP [WS](https://www.weslpress.org/9780819572240/musicking/)
 
 Books - Songs
 * The Penguin Book of English Folk Songs, Selected and edited by Ralph Vaughan Williams and A.L. Lloyd, Penguin Books, 1959, [WS](https://mainlynorfolk.info/lloyd/books/penguinbookofenglishfolksongs.html)
