@@ -28,6 +28,10 @@ Circle of fifths as a horizontal line.
 | natural number    | 7♮    | 6♮ | 5♮ | 4♮ | 3♮ | 2♮/0♮ | 1♮/1♮ | 0♮/2♮ | 3♮ | 4♮ | 5♮ | 6♮ |
 | Clock position    | 12    | 1  | 2  | 3  | 4  | 5     | 6     | 7     | 8  | 9  | 10 | 11 |
 
+Intervals
+* Read left to right perfect fifths read right to left perfect fourths
+* So the circle of fifths clockwise is also the circle of fourths anti clockwise
+
 Shared pitch - single note
 * Enharmonic equivalents share the same pitch
 * The same single pitch wavelenth
@@ -36,7 +40,7 @@ Shared pitch - single note
 
 Relative keys - set of notes accidentals
 * Relative keys share the same key signature
-* The same set of seven notes offset by three semitones, the scale of `a minor` starts three semitones below `C major`
+* The same set of seven notes offset by three semitones a minor third, the scale of `a minor` starts three semitones below `C major`
 * Outer ring major (ormjr) over inner ring minor (irmin) columns, ormjr/irmin = relative keys
 * `C major` is the relative key to `a minor` and visa versa
 * `B major` is the relative key to `g sharp minor` and visa versa 
@@ -46,9 +50,10 @@ Relative keys - set of notes accidentals
 Terms
 * Circle of fifths, 
 * Accidental, 
+* Intervals [WP](https://en.wikipedia.org/wiki/Interval_(music)), smallest interval is a semitone
 * Flat [WP](https://en.wikipedia.org/wiki/Flat_(music)), ♭
 * Natural [WP](https://en.wikipedia.org/wiki/Natural_(music)), ♮
 * Sharp [WP](https://en.wikipedia.org/wiki/Sharp_(music)), ♯
 * Musical symbols unicode [WP](https://en.wikipedia.org/wiki/Musical_Symbols_(Unicode_block))
 * List of musical symbols [WP](https://en.wikipedia.org/wiki/List_of_musical_symbols)
-
+* Relative key [WP](https://en.wikipedia.org/wiki/Relative_key), minor third offset
