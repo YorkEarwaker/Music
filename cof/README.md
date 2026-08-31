@@ -26,6 +26,7 @@ Circle of fifths as a horizontal line.
 * `B/C♭` = `B major` is the enharmonic equivalent of `C flat major`
 * Outer ring major (ormjr) over inner ring minor (irmin) columns, ormjr/irmin = relative keys
 * `C major` is the relative key to `a minor` and visa versa
+* `B major` is the relative key to `g sharp minor` and visa versa 
 
 ## References
 
