@@ -13,7 +13,11 @@ DONE
 ## Output - 
 Various diagrams tbd.
 
+### Line of fifths
 Circle of fifths as a horizontal line.
+* This rendering along the horrizontal allows for `a flat` and `a sharp` keys to be made explicit
+* The keys of `a flat` and `a sharp` are usually not shown on the circle of fifths diagrams due to real estate issues for inner ring minor keys
+
 |                   |       |    |    |    |    |       |       |       |    |    |    |    |
 | :---------------- | :-    | :- | :- | :- | :- | :-    | :-    | :-    |:-  | :- | :- | :- |
 | Outer ring major  | C     | G  | D  | A  | E  | B/C♭  | F♯/G♭ | C♯/D♭ | A♭ | E♭ | B♭ | F  |
