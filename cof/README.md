@@ -14,12 +14,12 @@ DONE
 Various diagrams tbd.
 
 Circle of fifths as a horizontal line.
-|                   |       |    |    |    |    |       |       |
-| :---------------- | :-    | :- | :- | :- | :- | :-    | :-    | 
-| Outer ring Major  | C     | G  | D  | A  | E  | B/C♭  | F♯/G♭ |
-| Inner ring Minor  | a     | e  | b  | f♯ | c♯ | g♯/a♭ | d♯/e♭ |
-| Accidental number | 0♯,0♭ | 1♯ | 2♯ | 3♯ | 4♯ | 5♯/7♭ | 6♯/6♭ |
-| Clock position    | 12    | 1  | 2  | 3  | 4  | 5     | 6     |
+|                   |       |    |    |    |    |       |       |       |    |    |    |    |
+| :---------------- | :-    | :- | :- | :- | :- | :-    | :-    | :-    |:-  | :- | :- | :- |
+| Outer ring Major  | C     | G  | D  | A  | E  | B/C♭  | F♯/G♭ | C♯/D♭ | A♭ | E♭ | B♭ | F  |
+| Inner ring Minor  | a     | e  | b  | f♯ | c♯ | g♯/a♭ | d♯/e♭ | a♯/b♭ | f  | c  | g  | d  |
+| Accidental number | 0♯/0♭ | 1♯ | 2♯ | 3♯ | 4♯ | 5♯/7♭ | 6♯/6♭ | 7♯/5♭ | 4♭ | 3♭ | 2♭ | 1♭ |
+| Clock position    | 12    | 1  | 2  | 3  | 4  | 5     | 6     | 7     | 8  | 9  | 10 | 11 |
 
 ## References
 
