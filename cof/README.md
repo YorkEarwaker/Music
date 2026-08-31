@@ -26,8 +26,15 @@ Circle of fifths as a horizontal line.
 | natural number    | 7♮    | 6♮ | 5♮ | 4♮ | 3♮ | 2♮/0♮ | 1♮/1♮ | 0♮/2♮ | 3♮ | 4♮ | 5♮ | 6♮ |
 | Clock position    | 12    | 1  | 2  | 3  | 4  | 5     | 6     | 7     | 8  | 9  | 10 | 11 |
 
+Shared pitch - single note
+* Enharmonic equivalents share the same pitch
+* The same single pitch wavelenth
 * P/Q rows = shared pitch, enharmonic equivalent
 * `B/C♭` = `B major` is the enharmonic equivalent of `C flat major`
+
+Relative keys - set of notes
+* Relative keys share the same key signature
+* The same set of seven pitch wavelenths
 * Outer ring major (ormjr) over inner ring minor (irmin) columns, ormjr/irmin = relative keys
 * `C major` is the relative key to `a minor` and visa versa
 * `B major` is the relative key to `g sharp minor` and visa versa 
