@@ -32,9 +32,9 @@ Shared pitch - single note
 * P/Q rows = shared pitch, enharmonic equivalent
 * `B/C♭` = `B major` is the enharmonic equivalent of `C flat major`
 
-Relative keys - set of notes
+Relative keys - set of notes accidentals
 * Relative keys share the same key signature
-* The same set of seven pitch wavelenths
+* The same set of seven notes offset by three semitones, the scale of `a minor` starts three semitones below `C major`
 * Outer ring major (ormjr) over inner ring minor (irmin) columns, ormjr/irmin = relative keys
 * `C major` is the relative key to `a minor` and visa versa
 * `B major` is the relative key to `g sharp minor` and visa versa 
