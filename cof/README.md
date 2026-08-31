@@ -19,6 +19,8 @@ Various diagrams tbd.
 Circle of fifths as a horizontal line.
 * This rendering along the horrizontal allows for `a flat` and `a sharp` keys to be made explicit, five o'clock and seven o'clock positions respectively
 * The keys of `a flat` and `a sharp` are usually not shown on the circle of fifths diagrams due to real estate issues for inner ring minor keys
+* The circle of fifths can be seen as two semi circles which are slightly extended at the lower part, that is two half circles with an additional thirty degrees added to the bottom that overlap at the bottom of each facing half and a bit
+* The clutter of the overlap at the bottom is the overlap of the 5th 6th and 7th o'clock postions the sharp key signatures 5, 6, 7 clockwise (left to right below) and flat key signatures 7, 6, 5 anti clockwise (right to left below)
 
 |                   |       |    |    |    |    |       |       |       |    |    |    |    |
 | :---------------- | :-    | :- | :- | :- | :- | :-    | :-    | :-    |:-  | :- | :- | :- |
