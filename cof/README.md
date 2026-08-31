@@ -2,6 +2,8 @@
 
 ## Notes
 
+Objectives
+* Trying to make sence of the circle of fifths.
 
 ## Status
 TODO
