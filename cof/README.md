@@ -8,6 +8,7 @@ Objectives
 ## Status
 TODO
 * <todo: consider, diagrams of the en harmonic equivalents and key signatures to determine double sharps or flats when the enharmonic with fewer accidentals would be preferred; B/C flat,g sharp/a flat, F sharp/G flat, d sharp/e flat, D flat/C sharp, b flat/a sharp, >
+* <todo: consider, analysis in first instance of pallel keys which start on the same tone, but don't share the same key signature, how do these relate the the cof >
 
 DONE
 * <done: consider, intent to commit>
