@@ -1,14 +1,20 @@
 # Circle of fifths cof
 
+Music theory, 
+
+See also
+* LaTex <todo: consider, sort out coding practice latex sub project and link here>
+
 ## Notes
 
 Objectives
-* Trying to make sence of the circle of fifths.
+* Trying to make sense of the circle of fifths.
 
 ## Status
 TODO
 * <todo: consider, diagrams of the en harmonic equivalents and key signatures to determine double sharps or flats when the enharmonic with fewer accidentals would be preferred; B/C flat,g sharp/a flat, F sharp/G flat, d sharp/e flat, D flat/C sharp, b flat/a sharp, >
 * <todo: consider, analysis in first instance of pallel keys which start on the same tone, but don't share the same key signature, how do these relate the the cof >
+* <todo: consider, LaTex for diagrams; music, mathematics, >
 
 DONE
 * <done: consider, intent to commit>
@@ -47,6 +53,14 @@ Relative keys - set of notes accidentals
 * Outer ring major (ormjr) over inner ring minor (irmin) columns, ormjr/irmin = relative keys
 * `C major` is the relative key to `a minor` and visa versa
 * `B major` is the relative key to `g sharp minor` and visa versa 
+
+## Geometry and mathematics
+Discussion of circles and lines, two dimentional geometry
+* <todo: consider, use LaTeX diagramming, >
+* <todo: consider, three dimentional geometry, riemmannian geometry, tensors, for cof but also for additional related concepts, consider geodesics of musical lines for a particular voice, >
+
+Halves of circle of fifths, accounting for clutter a bottom of cof, overlap of $60^\circ$ at lower part of cof
+* $180^\circ$ + $30^\circ$ = seven arcs of $30^\circ$
 
 ## References
 
